@@ -1,0 +1,19 @@
+#hero {
+    min-width: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--pico-primary-background);
+}
+
+#hero h1 {
+    align-items: center;
+    text-align: center;
+}
+
+#things {
+    color: var(--pico-primary-background);
+    display: flex;
+    flex-wrap: wrap;
+}
+
